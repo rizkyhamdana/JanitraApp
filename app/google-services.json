@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441804181641",
+    "project_id": "janitra-app-43dcc",
+    "storage_bucket": "janitra-app-43dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441804181641:android:ba59ccd13de830771ab658",
+        "android_client_info": {
+          "package_name": "com.rizkyhamdana.janitraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441804181641-0cdkjf2ugagh80ado12r9ulm0bdj8446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfRqTfN7LR_befTuUJWSeFyxa45lhjA7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441804181641-0cdkjf2ugagh80ado12r9ulm0bdj8446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
